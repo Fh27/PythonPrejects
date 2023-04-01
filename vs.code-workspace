@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../cpp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vs",
+		"files.associations": {
+			"iostream": "cpp",
+			"random": "cpp"
+		}
+	}
+}
